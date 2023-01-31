@@ -28,4 +28,4 @@ https://github.com/flxzt/rnote/discussions/77
 
 https://wiki.archlinux.org/title/Laptop/HP
 
-
+https://www.reddit.com/r/stylus/comments/q9xyor/active_stylus_for_hp_envy_x360_15mee0xxx/
