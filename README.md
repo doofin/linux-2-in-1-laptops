@@ -5,8 +5,9 @@ Lets run linux in your extensible 2 in 1 laptop or tablets ! I have gathered a l
 |-------------------------------------------------|-------------|-----------------|--------------------|-------------|-------------|---------|-----------------|---------------|-------------|---------------------------------------------------------------------------------|
 | Dell Inspiron 14 5410 2in1 2022(11th gen intel) |             | y               | PN350M(MPP)        |             |             |         |                 |               | MX350,intel |                                                                                 |
 | Dell Inspiron 14 5406                           |             |                 | PN350M(MPP) , y    | y           |             |         |                 |               |             | [yt](https://www.youtube.com/watch?v=qvpNVb6mK6)                                |
-| Dell Inspiron 14 7420 2in1                      |             | y               | PN5122W(Wacom AES) |             |             |         |                 |               |             |                                                                                 |
-| Dell Inspiron 7415 2-in-1 2021 (Ryzen 5000)     |             |                 |                    |             |             |         |                 |               |             | [gist guide](https://gist.github.com/adil192/2a5d3e9227133afc5b8ac7a54ef477c7 ) |
+| Dell Inspiron 14 7420 2in1                      |             | y               | PN5122W(Wacom AES),PN579X |             |             |         |                 |               |             |                                                                                 |
+| Dell Inspiron 7415 2-in-1 2021 (Ryzen 5000)     |             | y               | PN350M(MPP)        |             |             |         |                 |               |             | [gist guide](https://gist.github.com/adil192/2a5d3e9227133afc5b8ac7a54ef477c7 ) |
+| Dell Inspiron 7425 2-in-1 2022                  |             | y               | PN5122W(Wacom AES) |             |             |         |                 |               |             |   |
 | HP Pavilion x360 14 (10th gen intel)            | y           | y               |                    |             |             |         |                 |               | MX130,intel |                                                                                 |
 | hp envy x360 13                                 | y           | n               | HP 1mr94aa(MPP),y <br> HP mpp2.0 tilt pen <br> microsoft surface pen     | n           |             | n       |                 |               | amd         |                                                                                 |
 
@@ -14,8 +15,9 @@ Lets run linux in your extensible 2 in 1 laptop or tablets ! I have gathered a l
 ## remarks
 MPP = Microsoft Pen Protocol
 
+PN5122W(Wacom AES) is compat with PN7522W
 
-In general,I found the smalliest size for upgradeable ram and discrete gpu is 14 inch 2 in 1. I didn't find any tablets with upgradeable ram but correct me if you find one.
+The smalliest size for upgradeable ram and discrete gpu is 14 inch 2 in 1.
 
 
 PRs are welcome! (tips:when editing the table,turn off the wrap)
@@ -27,5 +29,8 @@ https://www.delltechnologies.com/asset/en-us/products/electronics-and-accessorie
 https://github.com/flxzt/rnote/discussions/77
 
 https://wiki.archlinux.org/title/Laptop/HP
+
+### stylus pen
+https://www.reddit.com/r/stylus/wiki/index/
 
 https://www.reddit.com/r/stylus/comments/q9xyor/active_stylus_for_hp_envy_x360_15mee0xxx/
