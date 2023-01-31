@@ -8,7 +8,7 @@ Lets run linux in your extensible 2 in 1 laptop or tablets ! I have gathered a l
 | Dell Inspiron 14 7420 2in1                      |             | y               | PN5122W(Wacom AES) |             |             |         |                 |               |             |                                                                                 |
 | Dell Inspiron 7415 2-in-1 2021 (Ryzen 5000)     |             |                 |                    |             |             |         |                 |               |             | [gist guide](https://gist.github.com/adil192/2a5d3e9227133afc5b8ac7a54ef477c7 ) |
 | HP Pavilion x360 14 (10th gen intel)            | y           | y               |                    |             |             |         |                 |               | MX130,intel |                                                                                 |
-| hp envy x360 13                                 | y           | n               | 1mr94aa(MPP),y     | n           |             | n       |                 |               | amd         |                                                                                 |
+| hp envy x360 13                                 | y           | n               | 1mr94aa(MPP),y <br> HP mpp2.0 tilt pen     | n           |             | n       |                 |               | amd         |                                                                                 |
 
 
 ## remarks
